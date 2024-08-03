@@ -8,4 +8,6 @@
 <img src="https://img.shields.io/badge/Python-98BCDA?style=flat=squre&logo=Python&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/C++-94ABFF?style=flat=squre&logo=C%2B%2B&logoColor=ffffff"/>
 </div>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shunamo&show_icons=true&theme=radical" />
+</div>
