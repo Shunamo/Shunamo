@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/JavaScript-FAF19E?style=flat=squre&logo=JavaScript&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/TypeScript-94DFFF?style=flat=squre&logo=TypeScript&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/React-93D0F4?style=flat-squre&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/Next.js-ffffff?style=flat-square&logo=Next.js&logoColor=black">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=ffffff">
 
 </div>
 <div align=center>
