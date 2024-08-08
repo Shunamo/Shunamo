@@ -3,6 +3,8 @@
 <img src="https://img.shields.io/badge/JavaScript-FAF19E?style=flat=squre&logo=JavaScript&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/TypeScript-94DFFF?style=flat=squre&logo=TypeScript&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/React-93D0F4?style=flat-squre&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/React-93D0F4?style=flat-squre&logo=next&logoColor=black">
+
 </div>
 <div align=center>
 <img src="https://img.shields.io/badge/Python-98BCDA?style=flat=squre&logo=Python&logoColor=ffffff"/>
