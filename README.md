@@ -3,10 +3,11 @@
 <img src="https://img.shields.io/badge/JavaScript-FAF19E?style=flat=squre&logo=JavaScript&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/TypeScript-94DFFF?style=flat=squre&logo=TypeScript&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/React-93D0F4?style=flat-squre&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/Next.js-dfdfdf?style=flat-square&logo=Next.js&logoColor=ffffff">
 
 </div>
 <div align=center>
+  <img src="https://img.shields.io/badge/Next.js-dfdfdf?style=flat-square&logo=Next.js&logoColor=ffffff">
+
 <img src="https://img.shields.io/badge/Python-98BCDA?style=flat=squre&logo=Python&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/C++-94ABFF?style=flat=squre&logo=C%2B%2B&logoColor=ffffff"/>
 </div>
