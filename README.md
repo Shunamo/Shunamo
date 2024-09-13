@@ -6,7 +6,8 @@
 
 </div>
 <div align=center>
-  <img src="https://img.shields.io/badge/Next.js-dfdfdf?style=flat-square&logo=Next.js&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/Next.js-dfdfdf?style=flat=square&logo=Next.js&logoColor=ffffff">
+<img src=http://img.shields.io/badge/-tailwindcss-52B4FF?style=flat=squre&logo=tailwindcss&logoColor=ffffff>
 
 <img src="https://img.shields.io/badge/Python-98BCDA?style=flat=squre&logo=Python&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/C++-94ABFF?style=flat=squre&logo=C%2B%2B&logoColor=ffffff"/>
